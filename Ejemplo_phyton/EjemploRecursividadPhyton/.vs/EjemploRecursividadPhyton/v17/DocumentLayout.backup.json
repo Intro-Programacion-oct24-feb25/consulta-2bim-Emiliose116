@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L E N O V O\\Desktop\\Programaci\u00F3n\\Consulta\\consulta-2bim-Emiliose116\\Ejemplo_phyton\\EjemploRecursividadPhyton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8439D7D4-843E-460F-8435-DEA946A74DD6}|EjemploRecursividadPhyton.pyproj|C:\\Users\\L E N O V O\\Desktop\\Programaci\u00F3n\\Consulta\\consulta-2bim-Emiliose116\\Ejemplo_phyton\\EjemploRecursividadPhyton\\EjemploRecursividadPhyton.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8439D7D4-843E-460F-8435-DEA946A74DD6}|EjemploRecursividadPhyton.pyproj|solutionrelative:EjemploRecursividadPhyton.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjemploRecursividadPhyton.py",
+              "DocumentMoniker": "C:\\Users\\L E N O V O\\Desktop\\Programaci\u00F3n\\Consulta\\consulta-2bim-Emiliose116\\Ejemplo_phyton\\EjemploRecursividadPhyton\\EjemploRecursividadPhyton.py",
+              "RelativeDocumentMoniker": "EjemploRecursividadPhyton.py",
+              "ToolTip": "C:\\Users\\L E N O V O\\Desktop\\Programaci\u00F3n\\Consulta\\consulta-2bim-Emiliose116\\Ejemplo_phyton\\EjemploRecursividadPhyton\\EjemploRecursividadPhyton.py*",
+              "RelativeToolTip": "EjemploRecursividadPhyton.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-04T16:06:19.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
